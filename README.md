@@ -15,6 +15,7 @@ Python 3.11.5
 ## Setup
 Clone this repository:
 git clone https://github.com/your_username/GPT-Researchers.git
+
 cd GPT-Researchers
 
 ## Installation
